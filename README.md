@@ -60,5 +60,5 @@
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/54143767?v=4" width=115><br><sub>Giulia Alcantara</sub>](https://github.com/giulialcantara)
+| [<img src="https://avatars.githubusercontent.com/u/54143767?v=4" width=115><br><sub>Giulia Alcantara</sub>](https://github.com/alcantaragiubs)
 | :---: |
