@@ -43,7 +43,7 @@
 
 ## 📁 Acesso ao projeto
 
-- **Você pode <a href="https://github.com/alcantaragiubs/Prova-Syscoin/blob/main/Teste">acessar o código fonte original</a> ou abrir por um servidor web**
+- **Você pode <a href="hhttps://github.com/alcantaragiubs/Prova-Syscoin/blob/main/provasyscoin.php">acessar o código fonte original</a> ou abrir por um servidor web**
 
 ## 🛠️ Abrir e rodar o projeto
 
